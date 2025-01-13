@@ -1,6 +1,6 @@
 {
   "name": "@modelcontextprotocol/server-jira",
-  "version": "0.6.2",
+  "version": "0.1.0",
   "description": "MCP server for jira access",
   "license": "MIT",
   "author": "Vurtnec",
